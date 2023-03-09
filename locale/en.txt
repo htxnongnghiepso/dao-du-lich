@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_F5E657AF_C3E0_030A_41D7_67C51AE40338.label = dao
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 146
